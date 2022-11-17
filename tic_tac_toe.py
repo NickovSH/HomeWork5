@@ -70,6 +70,3 @@ def search_for_a_winner(line1_fields, line2_fields, line3_fields):
 def main():
     input_fields()
 
-main()
-
-
