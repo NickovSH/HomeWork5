@@ -13,6 +13,7 @@
 
 def structuring_the_data():
 
+    print('\nExercise 5 - structuring the data')
     dates_list = ['2017-03-01', '2017-03-02']
     rates_list= [55.7, 55.2]
 
