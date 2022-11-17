@@ -4,6 +4,7 @@ import Text_analysis_Popularity
 import Bottom_up
 import structuring_the_data
 import roman_numerals
+import tic_tac_toe
 
 if __name__ == '__main__':
     Text_analysis_Popularity.analysis_popularity()
@@ -11,5 +12,6 @@ if __name__ == '__main__':
     Lazy_Speculator.bank_selection()
     Bottom_up.reverse_key_value_in_dictionary()
     structuring_the_data.structuring_the_data()
+    tic_tac_toe.main()
 
 
